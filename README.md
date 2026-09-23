@@ -36,8 +36,8 @@ ollama pull nomic-embed-text
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
+git clone https://github.com/analusz/webScrapingAi.git
+cd webScrapingAi
 ```
 
 Crie o ambiente virtual:
