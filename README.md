@@ -78,15 +78,13 @@ A aplicação será aberta no navegador.
 ## 📁 Estrutura do projeto
 
 ```text
-Scraping com ia/
-├── .venv/
 ├── .gitignore
 ├── app.py
 ├── README.md
 └── requirements.txt
 ```
 
-> A pasta `.venv` é utilizada apenas localmente e não é enviada para o GitHub.
+> A pasta `.venv` é utilizada apenas localmente.
 
 ## 📌 Próximos passos
 
